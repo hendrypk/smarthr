@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2024-06-13T17:29:55.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="PxEu1-6raV8SwksfkfjM" version="22.0.3" type="device">
+  <diagram name="Page-1" id="ttACeLu5mS9urQCFrG05">
+    <mxGraphModel dx="458" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-30" value="employee" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-31" value="employee_id&lt;br&gt;EID&lt;br&gt;name&lt;br&gt;status&lt;br&gt;job_title&lt;br&gt;job_positions&lt;br&gt;division&lt;br&gt;department&lt;br&gt;created_at&lt;br&gt;updated_at&lt;br&gt;deleted_ad" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="YKPtG36q2d7RW8xg6rvl-30">
+          <mxGeometry y="50" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-36" value="sallary_slip" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-37" value="basic_sallary&lt;br&gt;health&lt;br&gt;meal&lt;br&gt;dicipline&lt;br&gt;performance&lt;br&gt;comission&lt;br&gt;overtime&lt;br&gt;earning_adjustment&lt;br&gt;absence&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;lateness&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;meal_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dicipline_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;check_out_early&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;penalty&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;comission_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;loan&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;deduction_adjustment" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="YKPtG36q2d7RW8xg6rvl-36">
+          <mxGeometry y="50" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-44" value="comben_list" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="160" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="YKPtG36q2d7RW8xg6rvl-45" value="basic_sallary&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;health&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;meal&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dicipline&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;performance&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;comission&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;overtime&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;earning_adjustment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;absence&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;lateness&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;meal_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;dicipline_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;check_out_early&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;penalty&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;comission_deduction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;loan&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;deduction_adjustment" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="YKPtG36q2d7RW8xg6rvl-44">
+          <mxGeometry y="50" width="160" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
